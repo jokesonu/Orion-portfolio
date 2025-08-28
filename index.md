@@ -1,6 +1,6 @@
 ---
+title: "Selected Class Projects"
 ---
-# Selected Class Projects
 
 ## TreasureMaze Q-Learning Agent
 **Course:** CS-370 — Current & Emerging Trends in Computer Science  
