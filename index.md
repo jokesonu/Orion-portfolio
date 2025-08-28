@@ -1,5 +1,5 @@
 ---
-title: "OMSAI Relevant Coursework"
+title: "OMSAI Relevant Projects"
 ---
 
 ## Treasure Maze Q-Learning Agent
