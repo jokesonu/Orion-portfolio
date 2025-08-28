@@ -10,7 +10,7 @@ title: "OMSAI Relevant Projects"
   Treasure Hunt Game Notebook
 </a>
 
-![Alt text](assets/downloads/TreasureMazeScreenshot.jpg "Completed Maze")
+![Screenshot of completed Maze](assets/downloads/TreasureMazeScreenshot.jpg "Completed Maze")
 
 **What I built**
 - Implemented the **Q-training algorithm** that learns from agent–environment interactions
@@ -62,7 +62,7 @@ Shows how selecting the right structure impacts performance, scalability, and ma
 **Output**
 Screenshot of the program running:
 
-![Alt text](assets/downloads/CoursePlannerOutput.png "Optional Title")
+![Screenshot of Course Planner Running](assets/downloads/CoursePlannerOutput.png "Optional Title")
 
 **Reflection**
 
