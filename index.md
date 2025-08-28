@@ -10,6 +10,8 @@ title: "OMSAI Relevant Projects"
   Treasure Hunt Game Notebook
 </a>
 
+![Alt text](assets/downloads/TreasureMazeScreenshot.jpg "Completed Maze")
+
 **What I built**
 - Implemented the **Q-training algorithm** that learns from agent–environment interactions
 - Added **epsilon-greedy** to balance exploration vs. exploitation
