@@ -5,8 +5,11 @@
 
 ## TreasureMaze Q-Learning Agent
 **Course:** CS-370 — Current & Emerging Trends in Computer Science  
-**Tech:** Python, Q-learning, epsilon-greedy •
+**Tech:** Python, Q-learning, epsilon-greedy<br>
 **Code:** 
+<a href="projects/cs370-dqn/" target="_blank" rel="noopener">
+  View CS-370 Deep Q-Learning Notebook
+</a>
 
 **What I built**
 - Implemented the **Q-training algorithm** that learns from agent–environment interactions
