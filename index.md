@@ -1,8 +1,7 @@
 ---
-title: "Selected Class Projects"
+title: "Treasure Maze Q-Learning Agent"
 ---
 
-## TreasureMaze Q-Learning Agent
 **Course:** CS-370 — Current & Emerging Trends in Computer Science  
 **Tech:** Python, Q-learning, epsilon-greedy<br>
 **Code:** 
