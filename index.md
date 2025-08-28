@@ -7,7 +7,7 @@
 **Course:** CS-370 — Current & Emerging Trends in Computer Science  
 **Tech:** Python, Q-learning, epsilon-greedy<br>
 **Code:** 
-<a href="projects/cs370-dqn/" target="_blank" rel="noopener">
+<a href="projects/cs370-dqn/Murray_Orion_ProjectTwo.html" target="_blank" rel="noopener">
   Treasure Hunt Game Notebook
 </a>
 
