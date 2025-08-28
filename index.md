@@ -34,6 +34,6 @@ When approaching a problem as a computer scientist I try to follow a systematic 
 What are my ethical responsibilities to the end user and the organization?
 
 My ethical responsibilties to end users and the orginization would be to use secure and transparent methods for processing data. If data isn’t handled responsibly, either the company itself could exploit its customers, or a bad actor could cause a breach. To address this, I would advocate for complete transparency with users about their data, provide an easy and effective way for them to opt out of data usage, and employ robust security measures to store and encrypt user information.
-
+</details>
 ---
 
