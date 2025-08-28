@@ -38,10 +38,9 @@ title: "OMSAI Relevant Coursework"
 ## Choosing the Right Data Structure - Course Catalog 
 **Course:** CS-300 — Data Structures & Algorithms  
 **Tech:** C++, CSV parsing, Binary Search Tree, Hash Table, Vector  
-**Code:**  
-[<a href="{{ '/assets/downloads/cs300-bst.zip' | relative_url }}" download
+**Code:**  <a href="{{ '/assets/downloads/cs300-bst.zip' | relative_url }}" download
    style="display:inline-block;padding:10px 14px;border:1px solid #ccc;border-radius:8px;text-decoration:none;">
-  ⬇️ Download ZIP
+ Download ZIP
 </a>
 
 **Problem**  
