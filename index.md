@@ -1,7 +1,8 @@
 ---
-title: "Treasure Maze Q-Learning Agent"
+title: "OMSAI Relevant Coursework"
 ---
 
+**Treasure Maze Q-Learning Agent**
 **Course:** CS-370 — Current & Emerging Trends in Computer Science  
 **Tech:** Python, Q-learning, epsilon-greedy<br>
 **Code:** 
