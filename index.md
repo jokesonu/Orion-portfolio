@@ -20,7 +20,7 @@ title: Coursework Portfolio
 <details>
 <summary>Reflection (course integration & ethics)</summary>
 
-- What code were you given? What code did you create yourself?
+-What code were you given? What code did you create yourself?
   - In this project I was provided with foundational code that included the environment setup being the maze structure for the TreasureMaze and GameExperience classes. These classes handled the basic mechanics of the game environment such as how the agent interacts with the maze and how experiences are stored for later use. I provided the code responsible for the Q-training algorithm that defined how the agent learned from its interactions with the environment and updating it's memory. I also integrated the epsilon-greedy strategy to balance exploration and exploitation so the agent could learn how to navigate the maze to find the treasure.
     
 - Connect your learning from throughout this course to the larger field of computer science:
