@@ -18,7 +18,7 @@ title: "OMSAI Relevant Projects"
 **Why it matters**
 - Demonstrates practical **reinforcement learning**: algorithm design, policy control, and integrating with an existing environment
 
-## Reflection
+**Reflection**
 
 - **What code were you given? What code did you create yourself?**<br>
   In this project I was provided with foundational code that included the environment setup being the maze structure for the TreasureMaze and GameExperience classes. These classes handled the basic mechanics of the game environment such as how the agent interacts with the maze and how experiences are stored for later use. I provided the code responsible for the Q-training algorithm that defined how the agent learned from its interactions with the environment and updating it's memory. I also integrated the epsilon-greedy strategy to balance exploration and exploitation so the agent could learn how to navigate the maze to find the treasure.<br>
@@ -54,7 +54,7 @@ Build a program that loads a CSV of Computer Science courses, prints an alphabet
 **Why it matters**  
 Shows how selecting the right structure impacts performance, scalability, and maintainability for everyday data tasks.
 
-## Reflection
+**Reflection**
 
 - **What was the problem you were solving in the projects for this course?**<br>
 The problem being solved in this project was determining the best data structure for a program to load a csv file, print a full list of courses for a Computer Science program, and to display course information and prerequisites for each selected course.
