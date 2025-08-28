@@ -33,9 +33,35 @@ title: "OMSAI Relevant Coursework"
 - **What are my ethical responsibilities to the end user and the organization?**<br>
   My ethical responsibilties to end users and the orginization would be to use secure and transparent methods for processing data. If data isn’t handled responsibly, either the company itself could exploit its customers, or a bad actor could cause a breach. To address this, I would advocate for complete transparency with users about their data, provide an easy and effective way for them to opt out of data usage, and employ robust security measures to store and encrypt user information.
 </details>
+---
 
+## Choosing the Right Data Structure - Course Catalog 
+**Course:** CS-300 — Data Structures & Algorithms  
+**Tech:** C++, CSV parsing, Binary Search Tree, Hash Table, Vector  
+**Artifacts:** [Project page](projects/cs300-dsa/) · [Source (course_catalog.cpp)](projects/cs300-dsa/course_catalog.cpp)
+
+**Problem**  
+Build a program that loads a CSV of Computer Science courses, prints an alphabetized course list, and shows details + prerequisites for a selected course.
+
+**Approach**  
+- Compared **Vector**, **Hash Table**, and **Binary Search Tree (BST)** against the requirements.  
+- Chose **BST keyed by course ID** to get sorted output via in-order traversal and **O(log n)** lookups.  
+- Noted trade-offs: Hash Table’s average **O(1)** lookup but **no inherent ordering**; Vector is simple but requires **O(n log n)** sort for ordered output and **O(n)** search.  
+- Implemented `loadCSV()`, `insertCourse()`, `findCourse()`, `printAll()`, and `printCourse()` with clear separation of parsing, storage, and presentation.
+
+**Why it matters**  
+Shows how selecting the right structure impacts performance, scalability, and maintainability for everyday data tasks.
+
+<details markdown="1">
+<summary>Reflection (roadblocks & lessons)</summary>
+
+- **Roadblocks:** Early IDE/compile issues and limited C++ familiarity; solved with focused reading, small practice programs, and steady iteration.  
+- **Growth:** I’m more confident choosing data structures from first principles and writing code that is maintainable and testable—not just “from memory.”  
+</details>
 
 ---
+
+
 <style>
 /* Hide the theme’s header title line on this page only */
 header .site-title,            /* Minima & many themes */
