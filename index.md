@@ -36,3 +36,10 @@ title: "Selected Class Projects"
 
 
 ---
+<style>
+/* Hide the theme’s header title line on this page only */
+header .site-title,            /* Minima & many themes */
+.page-header .project-name,    /* Cayman */
+.page-title,                   /* Minimal Mistakes page title */
+.breadcrumbs { display:none !important; }  /* if your theme shows a title as a breadcrumb */
+</style>
