@@ -38,7 +38,11 @@ title: "OMSAI Relevant Coursework"
 ## Choosing the Right Data Structure - Course Catalog 
 **Course:** CS-300 — Data Structures & Algorithms  
 **Tech:** C++, CSV parsing, Binary Search Tree, Hash Table, Vector  
-**Artifacts:** [Project page](projects/cs300-dsa/) · [Source (course_catalog.cpp)](projects/cs300-dsa/course_catalog.cpp)
+**Code:**  
+[<a href="{{ '/assets/downloads/cs300-bst.zip' | relative_url }}" download
+   style="display:inline-block;padding:10px 14px;border:1px solid #ccc;border-radius:8px;text-decoration:none;">
+  ⬇️ Download ZIP
+</a>
 
 **Problem**  
 Build a program that loads a CSV of Computer Science courses, prints an alphabetized course list, and shows details + prerequisites for a selected course.
