@@ -54,6 +54,11 @@ Build a program that loads a CSV of Computer Science courses, prints an alphabet
 **Why it matters**  
 Shows how selecting the right structure impacts performance, scalability, and maintainability for everyday data tasks.
 
+**Output**
+Screenshot of the program running:
+
+![Alt text](assets/downloads/CoursePlannerOutput.png "Optional Title")
+
 **Reflection**
 
 - **What was the problem you were solving in the projects for this course?**<br>
