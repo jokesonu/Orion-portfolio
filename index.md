@@ -37,6 +37,7 @@ title: "Selected Class Projects"
 
 ---
 
+
 <style>
 /* Hide common GitHub Pages/Jekyll footers (covers Minima, Cayman, MM, etc.) */
 footer,
@@ -44,8 +45,5 @@ footer,
 .page-footer,
 .page__footer,
 .footer,
-.footer-col-wrapper,
-.site-footer-credits,
-.page__footer-follow,
-.page__footer-copyright { display: none !important; }
 </style>
+
