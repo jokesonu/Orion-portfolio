@@ -45,5 +45,7 @@ footer,
 .page-footer,
 .page__footer,
 .footer,
+.footer-col-wrapper,
+.site-footer-credits,
 </style>
 
