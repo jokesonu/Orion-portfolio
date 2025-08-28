@@ -18,8 +18,7 @@ title: "OMSAI Relevant Projects"
 **Why it matters**
 - Demonstrates practical **reinforcement learning**: algorithm design, policy control, and integrating with an existing environment
 
-<details markdown="1">
-<summary>Reflection (course integration & ethics)</summary>
+#### Reflection
 
 - **What code were you given? What code did you create yourself?**<br>
   In this project I was provided with foundational code that included the environment setup being the maze structure for the TreasureMaze and GameExperience classes. These classes handled the basic mechanics of the game environment such as how the agent interacts with the maze and how experiences are stored for later use. I provided the code responsible for the Q-training algorithm that defined how the agent learned from its interactions with the environment and updating it's memory. I also integrated the epsilon-greedy strategy to balance exploration and exploitation so the agent could learn how to navigate the maze to find the treasure.<br>
@@ -32,7 +31,6 @@ title: "OMSAI Relevant Projects"
 
 - **What are my ethical responsibilities to the end user and the organization?**<br>
   My ethical responsibilties to end users and the orginization would be to use secure and transparent methods for processing data. If data isn’t handled responsibly, either the company itself could exploit its customers, or a bad actor could cause a breach. To address this, I would advocate for complete transparency with users about their data, provide an easy and effective way for them to opt out of data usage, and employ robust security measures to store and encrypt user information.
-</details><br>
 
 ---
 
@@ -56,12 +54,22 @@ Build a program that loads a CSV of Computer Science courses, prints an alphabet
 **Why it matters**  
 Shows how selecting the right structure impacts performance, scalability, and maintainability for everyday data tasks.
 
-<details markdown="1">
-<summary>Reflection (roadblocks & lessons)</summary>
+#### Reflection
 
-- **Roadblocks:** Early IDE/compile issues and limited C++ familiarity; solved with focused reading, small practice programs, and steady iteration.  
-- **Growth:** I’m more confident choosing data structures from first principles and writing code that is maintainable and testable—not just “from memory.”  
-</details>
+- **What was the problem you were solving in the projects for this course?**<br>
+The problem being solved in this project was determining the best data structure for a program to load a csv file, print a full list of courses for a Computer Science program, and to display course information and prerequisites for each selected course.
+
+- **How did you approach the problem? Consider why data structures are important to understand.**<br>
+I approached this problem by researching the different data structures being Vectors(Linked Lists), Hash Tables, and Binary Search Trees. When considering the BST and the requirements I felt that this would be the best type of data structures for this project. Binary search trees inherently sorted and should help decrease search times as they are pulled at O(log n). I also consider this in sake of future scalability for search. A Hash Table will also not retain order so every time the data is loaded it will have to be sorted afterwards at O(n log n). While a Hash Table is a good frequent single search, it’s not ideal for situations where you wanted sorted data. When considering the Vector, I believe this would be the easiest data structure to initially implement, but not the best-case long term. The time complexity needed to load the data is o(1) but sorting the list alphanumerically will be longer if the data needs to be sorted.
+
+- **How did you overcome any roadblocks you encountered while going through the activities or project?**<br>
+Lot of studying and reading. I've been a bit frustrated in the past when i ran into issues such as IDE errors on setup or compiling in addition to unfamiliarity with C++ at the beginning, but I just stayed the course, took breaks when needed, and spent a lot of spare time practicing coding and understanding the concepts of data structures.
+
+- **How has your work on this project expanded your approach to designing software and developing programs?**<br>
+I believe my approach has expanded. I feel more confident to tackle problems and I’m getting to a point where I'm liking the challenges and results once a problem has been resolved. It's also helped me try to seek out new projects to continue to sharpen my skills.
+
+- **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**<br>
+I think this project has completely evolved the way I will write programs moving forward. While I was aware these of these concepts and how to implement them it felt as though I was doing so more from memory than understanding. I was able to maintain clean enough code throughout the course to use on the final project which help tremendously.
 
 ---
 
