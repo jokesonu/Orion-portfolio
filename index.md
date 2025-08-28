@@ -37,16 +37,10 @@ title: "Selected Class Projects"
 
 ---
 
-
 <style>
-/* Hide common GitHub Pages/Jekyll footers (covers Minima, Cayman, MM, etc.) */
-footer,
-.site-footer,
-.page-footer,
-.page__footer,
-.footer,
-.footer-col-wrapper,
-.site-footer-credits,
-.page__footer-follow,
+/* Hide the theme’s header title line on this page only */
+header .site-title,            /* Minima & many themes */
+.page-header .project-name,    /* Cayman */
+.page-title,                   /* Minimal Mistakes page title */
+.breadcrumbs { display:none !important; }  /* if your theme shows a title as a breadcrumb */
 </style>
-
