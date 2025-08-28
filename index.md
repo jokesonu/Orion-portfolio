@@ -1,7 +1,4 @@
 ---
-layout: default
-title: Coursework Portfolio
----
 
 # Selected Class Projects
 
